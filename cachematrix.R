@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions can be used to both create a matrix that can be
+## cached, and to retrieve (or set) the cached value of the inverted
+## matrix
 
 ## makeCacheMatrix will create an abstraction around a matrix that
 ## will allow for the defaults of the cacheInverse to be cached
